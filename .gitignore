@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artefacts
+*.mp3
+*.log
+__pycache__/
+*.pyc
+
+# Hermes agent runtime if anyone accidentally drops it in here
+.hermes/
+node_modules/
